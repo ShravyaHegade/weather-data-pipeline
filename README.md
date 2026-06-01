@@ -2,7 +2,7 @@
 
 ## What it does
 An automated ETL (Extract, Transform, Load) pipeline that fetches 
-real-time weather data for Mumbai every 2 hours, cleans it using 
+real-time weather data for Mumbai every 5 mins, cleans it using 
 Python and Pandas, and stores it in a PostgreSQL database automatically.
 
 ## Architecture
@@ -18,7 +18,7 @@ Open-Meteo API → Python → PostgreSQL database
 1. Fetches live weather data (temperature, humidity, wind speed)
 2. Cleans and transforms it into a structured table
 3. Inserts it into PostgreSQL with a timestamp
-4. Repeats automatically every 2 hours
+4. Repeats automatically every 5 mins
 
 ## Sample data collected
 | recorded_at | temperature | humidity | wind_speed | city |
