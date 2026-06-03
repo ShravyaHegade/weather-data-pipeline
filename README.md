@@ -36,10 +36,10 @@ Open-Meteo API → Python → PostgreSQL database
 
 ## Output
 
-![terminal output](terminal_output.png)
+![terminal output](images/terminal_output.png)
 
 ## Postgresql Table
 
-![postgresql table](postgres_output.png)
+![postgresql table](images/postgres_output.png)
 
 
