@@ -33,3 +33,13 @@ Open-Meteo API → Python → PostgreSQL database
 - Building automated pipelines with error handling and logging
 - Debugging real errors independently
 - Linux basics and Git Bash navigation
+
+## Output
+
+![terminal output](terminal_output.png)
+
+## Postgresql Table
+
+![postgresql table](postgres_output.png)
+
+
